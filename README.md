@@ -13,11 +13,12 @@ Tax Litigation CoPilot helps tax officers make informed decisions about whether 
 
 ## Group Members
 
-Nikilesh
-Ajay Kumar Golla
-Paavani Karuturi
-Abhinav
-Vinuta Patil
+- Nikilesh  
+- Ajay Kumar Golla  
+- Paavani Karuturi  
+- Abhinav  
+- Vinuta Patil
+
 
 ## Project Structure
 
