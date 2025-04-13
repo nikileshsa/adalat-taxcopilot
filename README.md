@@ -11,6 +11,14 @@ Tax Litigation CoPilot helps tax officers make informed decisions about whether 
 - Providing legal reasoning based on precedents
 - Generating clear recommendations
 
+## Group Members
+
+Nikilesh
+Ajay Kumar Golla
+Paavani Karuturi
+Abhinav
+Vinuta Patil
+
 ## Project Structure
 
 ```
